@@ -21,3 +21,7 @@ alert( result );
 ## Education
 * **University**: Belarusian State University, School of business of BSU, HR-management
 * **Courses**: RS School, JS/FE Pre-School
+## Languages
+* **English**: A1 (I am currently taking courses)
+* **German**: A1-A2
+* **Russian**: Native
