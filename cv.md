@@ -16,12 +16,14 @@ I am a fast learner and have good communication skills. My goal is to get the ne
 
 ## Code Example
 ```
+
 function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
 alert( result );
+
 ```
 ## Education
 * **University**: Belarusian State University, School of business of BSU, HR-management
