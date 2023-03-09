@@ -9,6 +9,7 @@ I am a fast learner and have good communication skills. My goal is to get the ne
 * HTML
 * CSS
 * JavaScript (Basic)
+* Git (Basic)
 ## Code Example
 ```
 function sum(a, b) {
